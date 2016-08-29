@@ -1,5 +1,5 @@
 @media only screen and (max-width: 680px) {
-    .a {
+    li > a {
         color: white;
 	}
   .carousel-caption>img {
