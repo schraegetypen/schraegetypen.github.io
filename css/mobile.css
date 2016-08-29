@@ -2,4 +2,7 @@
     .a {
         color: white;
 	}
+  .carousel-caption>img {
+    width: 200px;
+  }
 }
