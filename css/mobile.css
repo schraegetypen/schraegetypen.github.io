@@ -4,6 +4,6 @@
 	}
   .carousel-caption>img {
     width: 300px;
-    padding-left: -5px;
+    margin-left: -30px;
   }
 }
