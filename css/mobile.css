@@ -1,3 +1,7 @@
+.dropdown-menu{
+  background-color: black;
+  color: white;
+}
 @media only screen and (max-width: 680px) {
     .navbar-custom .nav li a {
         color: white;
