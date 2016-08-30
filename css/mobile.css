@@ -13,4 +13,7 @@
     width: 300px;
     margin-left: -16px;
   }
+  #notmobile{
+    display: none;
+  }
 }
